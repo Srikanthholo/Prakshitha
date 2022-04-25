@@ -25,7 +25,16 @@
     z-index: 99;
 }
 
+.link{
 
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+li{
+
+
+}
 /*** Spinner ***/
 #spinner {
     opacity: 0;
