@@ -31,12 +31,7 @@
     text-decoration: underline;
 }
 
-.service{
-
- padding-left: 110px;
- padding-top: 50px;
- padding-right: 110px;
-}
+ 
 /*** Spinner ***/
 #spinner {
     opacity: 0;
