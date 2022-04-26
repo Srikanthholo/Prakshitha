@@ -31,9 +31,11 @@
     text-decoration: underline;
 }
 
-li{
+.service{
 
-
+ padding-left: 110px;
+ padding-top: 50px;
+ padding-right: 110px;
 }
 /*** Spinner ***/
 #spinner {
